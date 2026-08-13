@@ -1,0 +1,18 @@
+FISIOSYSTEM - versão inicial
+
+1. Copie a pasta fisiosystem para C:\xampp\htdocs\
+2. Abra o XAMPP e inicie Apache e MySQL.
+3. Acesse http://localhost/phpmyadmin
+4. Vá em Importar e selecione banco/fisiosystem.sql
+5. Depois acesse http://localhost/fisiosystem
+
+Recursos incluídos:
+- Dashboard
+- Cadastro e busca de pacientes
+- Ficha do paciente
+- Avaliação fisioterapêutica
+- Evolução por sessão
+- Kanban com status
+
+IMPORTANTE:
+Esta é uma versão acadêmica/local. Para uso clínico real, acrescente autenticação, controle de acesso, logs, backups e medidas adequadas de segurança e proteção de dados.
