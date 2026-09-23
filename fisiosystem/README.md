@@ -59,5 +59,3 @@ Próximos passos que posso aplicar
 - Implementar alteração de senha e forçar alteração do usuário `admin` inicial.
 - Adicionar validação de CPF/telefone nos formulários.
 - Gerar um script de criação de usuário inicial seguro.
-
-Se quiser, aplico agora a migração mínima de usuários (tabela `usuarios` + criar usuário admin seguro) ou gero o script `README` para deploy em produção. Qual prefere? 
